@@ -1,0 +1,29 @@
+*{
+    background-color: blue;
+    display: block;
+    list-style: none;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+ul{
+    background-color: rgb(47, 231, 231);
+    justify-content: none;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    list-style: none;
+    justify-content: center;
+    display: block;
+
+}
+.button{
+    background-color: black;
+    
+}
+.button:hover{
+    background-color: blue;
+
+ 
+}
